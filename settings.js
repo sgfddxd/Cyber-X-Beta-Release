@@ -36,31 +36,42 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['989935689926'] //ur owner number
+global.ownername = "𝐄𝐙𝐈𝐎" //ur owner name
+global.ytname = "YT: کیر شدی سید" //ur yt chanel name
+global.socialm = "GitHub: بار دوم کیر شدی" //ur github or insta name
+global.location = "😐" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.owner = ['989935689926']
+global.ownertag = '989935689926' //ur tag number
+global.botnumber = '989935689926' //Add your Bot Number For Log
+global.botname = '𝐂𝐘𝐁 𝐁𝐎𝐓 𝐖𝐀' //ur bot name
+global.ig = "عه" //your theme url which will be displayed on whatsapp
+global.myweb = "جر" //ur website to be displayed
+global.sc = 'سمم' //script link
+global.linkz = 'بای'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.packname = "𝐄𝐙𝐈𝐎 |𝐙×𝐗|𝐇𝐀𝐂𝐊" //ur sticker watermark packname
+global.author = "‌" //ur sticker watermark author
+global.footer = "𝐁𝐍𝐌 𝐄𝐙𝐈𝐎"
+global.aliveimg ="https://telegra.ph/-09-12-1049"
+global.allmenuimg ="https://telegra.ph/-09-12-1049"
+global.welcomeimg= "https://telegra.ph/-09-12-1049"
+global.gbyeimg = "https://telegra.ph/-09-12-1049"
+global.alivemsg = "┏━━━ 𝑮𝜣𝑱𝜣 𝜝𝜣𝜯
+┠𝗡𝗔𝗡𝗬 ,, 🦄
+┠𝗛𝗢𝗦𝗧 ,, 🦄
+┠𝗖𝗛𝗘𝗘𝗠𝗦 ,, 🦄
+┠𝗛𝗔𝗖𝗞 ,, 🦄
+┠𝗣𝗥𝗢𝗚𝗥𝗔𝗠 ,, 🦄
+┠𝗛𝗘𝗬 ,, 🦄
+┠𝗠𝗘𝗡𝗨 ,, 🦄
+┠𝗛𝗢𝗪 𝗔𝗥𝗘 𝗬𝗢𝗨 ,, 🦄
+┠𝗜𝗠 𝗚𝗢𝗝𝗢 ,, 🦄
+┠𝗧𝗛𝗔𝗡𝗞 ,, 🦄
+┗━━━𝑮𝜣𝑱𝜣 𝜝𝜣𝜯"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +81,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['989935689926'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
